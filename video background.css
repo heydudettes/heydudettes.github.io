@@ -1,0 +1,21 @@
+/* i get that code is very interesting that you look through the page source. :3 ignore that */
+
+  /* video fullscreen background go brr */
+#backgroundvid {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+
+  /* stupid ass text background */
+.textbackground {
+  background: rgba(10, 36, 66, 0.5);
+
+}
